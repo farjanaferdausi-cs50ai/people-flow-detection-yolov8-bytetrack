@@ -66,7 +66,7 @@ Tested on `people-walking.mp4` (1920×1080 @ 25 FPS):
 
 ### Sample Output
 
-*(Add your actual output images here after uploading them to the repo — the original clean versions were saved by the notebook to your Google Drive under `Module_16_Assignment` and to your Downloads folder.)*
+*(— The original clean versions were saved by the notebook to  Google Drive under `Module_16_Assignment` and Downloads folder.)*
 
 
 ![Annotated Frame](output_frame_sample.png)
