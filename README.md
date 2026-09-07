@@ -70,7 +70,9 @@ Tested on `people-walking.mp4` (1920×1080 @ 25 FPS):
 
 
 ![Annotated Frame](output_frame_sample.png)
+
 ![Standalone Heatmap - JET](final_heatmap.png)
+
 ![Heatmap Overlay - INFERNO](heatmap_overlay.png)
 
 
