@@ -68,19 +68,19 @@ Tested on `people-walking.mp4` (1920×1080 @ 25 FPS):
 
 *(Add your actual output images here after uploading them to the repo — the original clean versions were saved by the notebook to your Google Drive under `Module_16_Assignment` and to your Downloads folder.)*
 
-```
+
 ![Annotated Frame](output_frame_sample.png)
 ![Standalone Heatmap - JET](final_heatmap.png)
 ![Heatmap Overlay - INFERNO](heatmap_overlay.png)
-```
+
 
 ## Project Structure
 
 ```
 ├── Module_16_People_Flow_Detection__Farjana_Ferdausi_.ipynb   # Main notebook (Google Colab)
-├── output_people_flow.mp4                                      # Annotated output video
-├── final_heatmap.png                                           # Standalone motion heatmap (JET)
-├── heatmap_overlay.png                                         # Heatmap overlaid on scene (INFERNO)
+├── output_people_flow.mp4                                     # Annotated output video
+├── final_heatmap.png                                          # Standalone motion heatmap (JET)
+├── heatmap_overlay.png                                        # Heatmap overlaid on scene (INFERNO)
 └── README.md
 ```
 
@@ -105,4 +105,5 @@ Tested on `people-walking.mp4` (1920×1080 @ 25 FPS):
 AI/ML Engineering & Data Science, Fellow — Google Cloud Gen AI Academy APAC Edition (Cohort 3) | Agentic AI · RAG · Gemini · ADK · BigQuery MCP · Cloud Run | Former HR Professional (14+ years) at Radisson Blu Dhaka Water Garden, Bangladesh
 
 LinkedIn: [linkedin.com/in/farjana-ferdausi](https://www.linkedin.com/in/farjana-ferdausi/)
+
 Medium: [medium.com/@farjana.rafi1983](https://medium.com/@farjana.rafi1983)
