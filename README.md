@@ -71,7 +71,7 @@ Tested on `people-walking.mp4` (1920×1080 @ 25 FPS):
 
 ![Annotated Frame](output_frame_sample.png)
 
-![Standalone Heatmap - JET](<img width="1189" height="701" alt="image" src="https://github.com/user-attachments/assets/af3970b1-fe78-4308-b4c9-93a5f922baee" />
+![Standalone Heatmap - JET](<img width="1189" height="701" alt="image" src=" />
 )
 
 ![Heatmap Overlay - INFERNO](heatmap_overlay.png)
